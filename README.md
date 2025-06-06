@@ -1,3 +1,6 @@
+# Project_Details
+https://roadmap.sh/projects/server-stats
+
 # Server_stats
 A script which shows your remote server stats.
 
