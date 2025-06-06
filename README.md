@@ -12,3 +12,7 @@ Top 5 processes by memory usage
     chmod +x server-stats.sh
 
 ```
+
+```bash
+    ./server-stats.sh
+```
